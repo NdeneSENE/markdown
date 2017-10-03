@@ -1,3 +1,4 @@
 # markdown app avec ReactJs.
-##Usage 
+#Usage\n
+npm install
 npm start
